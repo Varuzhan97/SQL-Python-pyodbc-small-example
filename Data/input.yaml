@@ -1,0 +1,14 @@
+train_data:
+  happy: True
+  nice: True
+  good: True
+  bad: False
+  ugly: False
+
+test_data:
+  You are happy: True
+  it is so ugly: False
+
+epoch:
+  loss: 0.9
+  accuracy: 57
